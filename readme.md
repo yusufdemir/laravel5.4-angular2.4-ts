@@ -31,7 +31,7 @@ resources/assets/typscript to public/app
 Chang Url Router to HashBang(#)<br>
 public/#/dashboard
 
- ##Install
+## Install
 - composer Install
 - npm install
 - copy change .env.example to .env
