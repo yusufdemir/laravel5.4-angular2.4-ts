@@ -24,3 +24,16 @@ Laravel is accessible, yet powerful, providing tools needed for large, robust ap
 ## Laravel 5.4 and Angular 2.4
 
 ![animation](https://cloud.githubusercontent.com/assets/5789262/22433240/4d6effe8-e74a-11e6-8c38-3cf9f6a2fdca.gif)
+
+Change TypeScript Gulp compiler <a href='https://github.com/gradosevic/laravel-elixir-ts'>laravel-elixir-ts</a> <br>
+resources/assets/typscript to public/app
+
+Chang Url Router to HashBang(#)<br>
+public/#/dashboard
+
+ ##Install
+- composer Install
+- npm install
+- copy change .env.example to .env
+- php artisan key:generate
+- Gulp && Gulp Watch
